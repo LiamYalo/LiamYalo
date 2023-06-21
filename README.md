@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Liam Yalo Thomas
 - 👀 I’m interested in Anime
-- 🌱 I’m currently learning (A lot)Python, Web 3, Blockchain
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning (A lot 🤓)Python, Web 3, Blockchain
+- 💞️ I’m looking to collaborate on Anime Games
 - 📫 How to reach me ...
 
 <!---
